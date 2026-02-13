@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from './Layout'
 
-export default function Signup() {
+export default function SignupTemp() {
     return (
         <>
             <Layout>

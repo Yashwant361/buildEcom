@@ -14,7 +14,7 @@ import Home from './components/Home'
 import Category from './components/Category'
 import Contact from './components/Contact'
 import Login from './components/Login'
-import Signup from './components/signup'
+import Signup from './components/SignupTemp'
 
 function App() {
   return (
