@@ -63,7 +63,7 @@ export default function SignupTemp() {
 
                             <p className='text-center mt-6 text-gray-600'>
                                 Already have an account?
-                                <a href='/login' className='text-green-600 font-semibold hover:underline ml-1'>Login</a>
+                                <a href='/components/Layout.jsx' className='text-green-600 font-semibold hover:underline ml-1'>Login</a>
                             </p>
                         </div>
                     </div>
